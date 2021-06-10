@@ -1,32 +1,33 @@
-<p align="center">![](https://komarev.com/ghpvc/?username=poja sfpoja sfpoj aspfojas)</p>
-
-## Welcome! 🙋‍♂️
-
-<img src="https://angular.io/assets/images/logos/angular/angular.svg" width="48"/>
-<img src="https://www.gstatic.com/devrel-devsite/prod/v43ebc0c2e4388c8943853f747aa71a1377aff55ab9911c04adbe21ac9f60d685/firebase/images/touchicon-180.png" width="48"/>
+# Welcome! 🙋‍♂️ ![](https://komarev.com/ghpvc/?username=bespunky)
 
 My name is Shy, but I'm not that Shy. 😉
-I'm a Full Stack Developer specializing in Angular, .NET and Firebase
-To tell you the truth, I feel fortunate... I love what I do and do what I love.
+I'm a Full Stack Developer from Israel, but I've lived and worked in Chile for over 6 years.
+To tell you the truth, I don't like calling myself a developer. I feel a lot more fortunate... I love what I do and do what I love.
+My work is my art, which is why I see myself as a creator, a lover, an artist, a leader and only then - a developer.
 
-Thank you for taking the time to review my work. 💕
+#### Current Specialties:
+<p align="center">
+    <img src="https://github.com/BeSpunky/bespunky/blob/main/angular.png" width="48"/>&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://github.com/BeSpunky/bespunky/blob/main/ts.png" width="48"/>&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://github.com/BeSpunky/bespunky/blob/main/c%23.png" width="48"/>&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://github.com/BeSpunky/bespunky/blob/main/firebase.png" width="48"/>
+</p>
 
-## What you'll find here
+Over the years I have gained a lot of experience and I've decided to give back to the community by launching a few open source projects.
+Please feel free to shuffle through my repos. I love getting in touch with people, so don't hesitate to contact me with any questions, requests or feedback. 😊
+
+Thank you for taking an interest and the time to review my art. 💕
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bespunky&show_icons=true&theme=prussian)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bespunky&layout=compact&theme=prussian)](https://github.com/anuraghazra/github-readme-stats)
 
-<!--
-**BeSpunky/bespunky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# My personal blog
+[![Cover](https://scontent.ftlv1-1.fna.fbcdn.net/v/t1.6435-9/64948552_2348514282061389_7501921003992252416_n.jpg?_nc_cat=100&ccb=1-3&_nc_sid=e3f864&_nc_ohc=ie1Mqb_adsoAX8cHdrQ&tn=RgsBIyOwffAPOriA&_nc_ht=scontent.ftlv1-1.fna&oh=d2a3df74fa536cc240726a8d68fda1a0&oe=60E860CF)](https://www.ThoughtsOfARandomPerson.com)
 
-Here are some ideas to get you started:
+# Top Repos
+I'm looking for contributors to help maintain these libraries. Contact me if you're interested. 💪
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+    <a href="https://github.com/bespunky/angular-zen"><img valign="middle" src="https://bs-angular-zen.web.app/assets/angular-zen/logo@0.5x.png" width="80"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://github.com/bespunky/angular-google-maps"><img valign="middle" src="https://bs-angular-g-maps.web.app/assets/logo.svg" width="65"/></a>
+</p>

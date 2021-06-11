@@ -18,8 +18,11 @@ Please feel free to shuffle through my repos. I love getting in touch with peopl
 
 Thank you for taking an interest and the time to review my art. 💕
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bespunky&show_icons=true&theme=prussian)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bespunky&layout=compact&theme=prussian)](https://github.com/anuraghazra/github-readme-stats)
+# Feeling like showing your support?
+If you liked my work and want to show your appreciation, a simple "great job" or "thank you" are always enough.
+But if you want to do more...
+
+<a href="https://www.buymeacoffee.com/bespunky"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=bespunky&button_colour=5F7FFF&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00"></a>
 
 # My personal blog
 [![Cover](https://scontent.ftlv1-1.fna.fbcdn.net/v/t1.6435-9/64948552_2348514282061389_7501921003992252416_n.jpg?_nc_cat=100&ccb=1-3&_nc_sid=e3f864&_nc_ohc=ie1Mqb_adsoAX8cHdrQ&tn=RgsBIyOwffAPOriA&_nc_ht=scontent.ftlv1-1.fna&oh=d2a3df74fa536cc240726a8d68fda1a0&oe=60E860CF)](https://www.ThoughtsOfARandomPerson.com)
